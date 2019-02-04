@@ -2,33 +2,32 @@ html {
   text-align: center;
   font-family: Helvetica;
 }
-.title {
+.Title {
   color: white;
-  background-image: file:///resources\images\background image building.png;
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
 }
-ul {
-  list-style: none;
-}
-.title h1 {
+.Title h1 {
   font-size: 70px;
   font-weight: bold;
 }
-.process h2 {
+h2 {
   font-size: 32px;
   font-weight: bold;
 }
 h3 {
   font-size: 23px;
-  font-family: bold;
+  font-weight: bold;
 }
 p {
   font-size: 14px;
 }
-.break {
+.Break {
+  color: white;
   font-weight: bold;
-  background-image: file:///resources\images\background image building.png;
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
 }
-.copy {
+.Copy footer {
+  text-align: left;
   font-size: 11px;
   color: white;
   background-color: dimgray;
